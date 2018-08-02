@@ -5,16 +5,14 @@
 home page
 </title>
 </head>
-<body bgcolor="purple" text="yallow">
-<div align="center">hello people</div>
-<br>my hobby
+<body bgcolor="purple" text="BLACK">
+<div align="center">HELLO PEOPLE</div>
+<br>MY HOBBY
 <p>reading
 <p>travel
 <swimming
 <Photography
-<font size="40" color"white">htma</font>
+<font size="40" color"BLACK">html</font>
 <br><b><i><u>web develop</u></i></b> 
-
-
 
 </body>
