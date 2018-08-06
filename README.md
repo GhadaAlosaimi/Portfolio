@@ -12,7 +12,21 @@ home page
 <p>travel
 <swimming
 <Photography
-<font size="40" color"BLACK">html</font>
+<font size="60" color"BLACK">html</font>
 <br><b><i><u>web develop</u></i></b> 
 
 </body>
+class HelloPeople extends React.Component {
+  render() {
+    return (
+      <div>
+        Hello {this.props.name}
+      </div>
+    );
+  }
+}
+
+ReactDOM.render(
+  <Hellopeople name="Taylor" />,
+  mountNode
+);
